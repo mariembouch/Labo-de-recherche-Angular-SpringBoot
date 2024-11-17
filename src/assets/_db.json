@@ -1,0 +1,62 @@
+{
+  "members": [
+    {
+      "id": "ba5e",
+      "cin": "11126236",
+      "name": "manel",
+      "cv": "cv",
+      "type": "ing",
+      "createDate": "2024-09-25T10:11:19.709Z"
+    },
+    {
+      "id": "9204",
+      "cin": "11155262",
+      "name": "mariem",
+      "cv": "cv ",
+      "type": "etudiante",
+      "createDate": "2024-09-25T10:11:48.773Z"
+    },
+    {
+      "cin": "55555",
+      "name": "farousa",
+      "cv": "docteur",
+      "type": "cv",
+      "createDate": "2024-09-30T13:45:36.959Z",
+      "id": "3db2"
+    },
+    {
+      "id": "477a",
+      "cin": "gyukg,hj",
+      "name": "fh,",
+      "cv": "hjh",
+      "type": "hj",
+      "createDate": "2024-10-14T13:48:32.532Z"
+    }
+  ],
+  "Evt": [
+    {
+      "Id": "12",
+      "Titre": "conf",
+      "DateDebut": "12/10/2002",
+      "Lieu": "sfax",
+      "DateFin": "15/10/2023",
+      "id": "2946"
+    },
+    {
+      "id": "c1a2",
+      "Titre": "ggg",
+      "Lieu": null,
+      "DateDebut": "2024-10-13T23:00:00.000Z",
+      "DateFin": "2024-10-16T23:00:00.000Z"
+    },
+    {
+      "id": "d83a"
+    },
+    {
+      "id": "2732"
+    },
+    {
+      "id": "3178"
+    }
+  ]
+}

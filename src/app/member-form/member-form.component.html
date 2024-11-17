@@ -1,0 +1,28 @@
+
+<form [formGroup]="form" (ngSubmit)="sub()">
+  <br/>
+  <input type="hidden" formControlName="hiddenField">
+
+   <mat-form-field appearance="outline">
+      <input matInput placeholder="cin" formControlName="cin">
+    </mat-form-field>
+<br/>
+    <mat-form-field appearance="outline">
+      <input matInput placeholder="name" formControlName="name">
+    </mat-form-field>
+<br/>
+
+    <mat-form-field appearance="outline">
+      <input matInput placeholder="cv" formControlName="cv">
+    </mat-form-field>
+    <br/>
+
+    <mat-form-field appearance="outline">
+      <input matInput placeholder="type"formControlName="type">
+    </mat-form-field>
+    <br/>
+
+    <button mat-raised-button color="primary"  type="submit">
+        submit
+      </button>
+    </form>
